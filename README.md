@@ -60,4 +60,4 @@ This project performs an Exploratory Data Analysis (EDA) on Airbnb booking data 
 ---
 ## 📬 Contact
 
-Created by *Samrat Singh*  
+Created by *Samrat Singh*
